@@ -1,4 +1,4 @@
 # hello-world
 Learning repository
 
-I am a Senior at UW-Whitewater and I'm studying Computer Science.
+I am a Senior at UW-Whitewater and I'm studying Computer Science. I prefer web development.
